@@ -6,8 +6,10 @@ class Square;
     def __init__(self, size = 0):
         '''
             The init method initializes the class instance
+
         @self:
             A parameter used to refer to the class instance
+
         @size:
             The size of the square, must be a +ve integer
         '''
